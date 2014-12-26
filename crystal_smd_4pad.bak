@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3  Date: 02/06/2013 23:33:51
+#encoding utf-8
+#
+# CRYSTAL_SMD_4pad
+#
+DEF CRYSTAL_SMD_4pad X 0 40 Y Y 1 F N
+F0 "X" 0 400 60 H V C CNN
+F1 "CRYSTAL_SMD_4pad" 0 300 60 H V C CNN
+F2 "~" 0 200 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+$FPLIST
+ crystal_SMD_MQ__7x5mm_4pad
+ crystal_SMD_MJ__5.0x3.2mm_4pad
+ crystal_SMD_MJ__5.0x3.2mm_4pad_HandSoldering
+ crystal_SMD_MQ__7.0x5.0mm_4pad
+ crystal_SMD_MQ__7.0x5.0mm_4pad_HandSoldering
+ crystal_SMD_MT__3.2x2.5mm_4pad
+ crystal_SMD_MT__3.2x2.5mm_4pad_HandSoldering
+ crystal_SMD_X22__2.5x2.0mm_4pad
+ crystal_SMD_X22__2.5x2.0mm_4pad_HandSoldering
+$ENDFPLIST
+DRAW
+S -150 150 150 -350 0 1 0 N
+P 2 0 1 16  -100 100  -100 -100 N
+P 2 0 1 16  100 100  100 -100 N
+P 5 0 1 12  -50 50  50 50  50 -50  -50 -50  -50 50 f
+X 1 1 -300 0 200 R 40 40 1 1 P
+X GND 2 -100 -450 100 U 50 50 1 1 P
+X 3 3 300 0 200 L 40 40 1 1 P
+X GND 4 100 -450 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: 02/06/2013 23:33:51
+#
+$CMP CRYSTAL_SMD_4PAD
+D crystal SMD 4pad metal lid
+K crystal, smd, 4pad, 7x5mm, MQ, euroquartz
+F euroquartz_7x5mm_SMD_4pad_MQ.pdf
+$ENDCMP
+#
+#End Doc Library

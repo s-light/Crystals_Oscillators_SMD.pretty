@@ -2,4 +2,5 @@ Crystals_Oscillators_SMD.pretty
 ===============================
 
 content:
-- here comes a image of the footprints in this library.
+![Crystals Oscillators SMD pretty library in PCBNew](test_crystal_SMD_PCB.png)
+![Crystals Oscillators SMD pretty library 3D Overview](test_crystal_SMD_PCB.png)

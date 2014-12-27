@@ -16,5 +16,5 @@ content:
 ![Crystals Oscillators SMD pretty library in PCBNew](test_crystal_SMD_PCB.png)
 ![Crystals Oscillators SMD pretty library 3D](test_crystal_SMD_3D.png)
 
-additional there is a Eeschema lib with an fitting `crystal_SMD_4pad` symbol:
+additional there is a Eeschema lib with an fitting `crystal_SMD_4pad` symbol:  
 ![Crystals Oscillators SMD pretty library 3D](crystal_smd_4pad.png)

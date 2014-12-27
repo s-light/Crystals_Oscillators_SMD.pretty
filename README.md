@@ -14,5 +14,7 @@ content:
 - crystal_SMD_X22__2.5x2.0mm_4pad_HandSoldering
 
 ![Crystals Oscillators SMD pretty library in PCBNew](test_crystal_SMD_PCB.png)
-![Crystals Oscillators SMD pretty library 3D Overview](test_crystal_SMD_3D_Overview.png)
 ![Crystals Oscillators SMD pretty library 3D](test_crystal_SMD_3D.png)
+
+additional there is a Eeschema lib with an fitting `crystal_SMD_4pad` symbol:
+![Crystals Oscillators SMD pretty library 3D](crystal_smd_4pad.png)

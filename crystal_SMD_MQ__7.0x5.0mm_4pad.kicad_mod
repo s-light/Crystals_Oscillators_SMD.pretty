@@ -35,11 +35,6 @@
   (pad 2 smd rect (at 3.15 1.25) (size 2.2 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 3.15 -1.25) (size 2.2 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -3.15 -1.25) (size 2.2 1.4) (layers F.Cu F.Paste F.Mask))
-  (model C:/_Local_DATA/_projects/_KiCAD/myPartLib/crystal_smd.pretty/crystal_SMD_MQ__7.0x5.0mm_4pad_3D.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
   (model Crystals_Oscillators_SMD/crystal_SMD_MQ__7.0x5.0mm_4pad_3D.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
